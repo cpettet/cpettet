@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Christian (Chris) Pettet</h1>
 <h3 align="center">A passionate full-stack developer in the Bay Area</h3>
 
-- 🔭 I’m currently working on [Freezuh, Final Transformation](https://github.com/cpettet/freezuh_project)
+- 🔭 I’m currently working on **[Freezuh, Final Transformation](https://github.com/cpettet/freezuh_project)**
 
 - 🌱 I’m currently learning **more about DSA**
 
-- 👨‍💻 All of my projects are available at [https://cpettet.github.io/](https://cpettet.github.io/)
+- 👨‍💻 All of my projects are available at **[https://cpettet.github.io/](https://cpettet.github.io/)**
 
 - 📫 How to reach me **cpettet11@gmail.com**
 
-- 📄  Read my [Resume](https://docs.google.com/document/d/1Lavqjm9BagGHZ3yGDsbESVYyZm0hpVLA4JD3Q9RQU-g/export?format=pdf)
+- 📄  Read my **[Resume](https://docs.google.com/document/d/1Lavqjm9BagGHZ3yGDsbESVYyZm0hpVLA4JD3Q9RQU-g/export?format=pdf)**
 
 - ⚡ Fun fact, **I drove from Cleveland to California in 3 days**
 
