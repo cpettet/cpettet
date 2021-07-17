@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Christian (Chris) Pettet</h1>
-<h3 align="center">A passionate full-stack developer in the Bay Area</h3>
 
 - 🔭 I’m currently working on **[Freezuh, Final Transformation](https://github.com/cpettet/freezuh_project)**
 
