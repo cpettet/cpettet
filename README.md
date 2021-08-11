@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **cpettet11@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1Lavqjm9BagGHZ3yGDsbESVYyZm0hpVLA4JD3Q9RQU-g/export?format=pdf](https://docs.google.com/document/d/1Lavqjm9BagGHZ3yGDsbESVYyZm0hpVLA4JD3Q9RQU-g/export?format=pdf)
+- 📄  Read my **[Resume](https://docs.google.com/document/d/1Lavqjm9BagGHZ3yGDsbESVYyZm0hpVLA4JD3Q9RQU-g/export?format=pdf)**
 
 - ⚡ Fun fact **I drove from Cleveland to California in 3 days**
 
